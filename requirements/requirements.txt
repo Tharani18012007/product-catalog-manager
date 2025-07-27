@@ -1,0 +1,20 @@
+
+ The FastAPI server:
+
+ Open `index.html` in my browser.
+
+---  
+## 📸 Screenshots are saved
+
+---
+
+## 📁 Folder Structure
+
+
+
+---
+
+## ✍️ Author
+
+Tharani C
+
